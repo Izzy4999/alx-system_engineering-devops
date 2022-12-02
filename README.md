@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-shell
+SHell permissions and shell basics
